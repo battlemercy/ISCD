@@ -1,0 +1,7 @@
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\obj\Debug\practice1(ркис, Маметьев, гр.691).csprojAssemblyReference.cache
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\obj\Debug\practice1(ркис, Маметьев, гр.691).csproj.CoreCompileInputs.cache
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\bin\Debug\practice1(ркис, Маметьев, гр.691).exe.config
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\bin\Debug\practice1(ркис, Маметьев, гр.691).exe
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\bin\Debug\practice1(ркис, Маметьев, гр.691).pdb
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\obj\Debug\practice1(ркис, Маметьев, гр.691).exe
+C:\Users\gr691_msi\source\repos\practice1(ркис, Маметьев, гр.691)\practice1(ркис, Маметьев, гр.691)\obj\Debug\practice1(ркис, Маметьев, гр.691).pdb

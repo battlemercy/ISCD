@@ -1,0 +1,14 @@
+C:\leonardo\leonardo\bin\Debug\leonardo.exe.config
+C:\leonardo\leonardo\bin\Debug\leonardo.exe
+C:\leonardo\leonardo\bin\Debug\leonardo.pdb
+C:\leonardo\leonardo\obj\Debug\leonardo.csprojAssemblyReference.cache
+C:\leonardo\leonardo\obj\Debug\leonardo.csproj.CoreCompileInputs.cache
+C:\leonardo\leonardo\obj\Debug\leonardo.exe
+C:\leonardo\leonardo\obj\Debug\leonardo.pdb
+Z:\Домашние работы по РКИС\leonardo\leonardo\obj\Debug\leonardo.csprojAssemblyReference.cache
+Z:\Домашние работы по РКИС\leonardo\leonardo\obj\Debug\leonardo.csproj.CoreCompileInputs.cache
+Z:\Домашние работы по РКИС\leonardo\leonardo\obj\Debug\leonardo.exe
+Z:\Домашние работы по РКИС\leonardo\leonardo\obj\Debug\leonardo.pdb
+Z:\Домашние работы по РКИС\leonardo\leonardo\bin\Debug\leonardo.exe.config
+Z:\Домашние работы по РКИС\leonardo\leonardo\bin\Debug\leonardo.exe
+Z:\Домашние работы по РКИС\leonardo\leonardo\bin\Debug\leonardo.pdb
