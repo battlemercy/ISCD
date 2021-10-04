@@ -1,0 +1,12 @@
+C:\Users\Ricardo Milos\Downloads\homework1\homework1\bin\Debug\homework1.exe.config
+C:\Users\Ricardo Milos\Downloads\homework1\homework1\bin\Debug\homework1.exe
+C:\Users\Ricardo Milos\Downloads\homework1\homework1\bin\Debug\homework1.pdb
+C:\Users\Ricardo Milos\Downloads\homework1\homework1\obj\Debug\homework1.csprojAssemblyReference.cache
+C:\Users\Ricardo Milos\Downloads\homework1\homework1\obj\Debug\homework1.exe
+C:\Users\Ricardo Milos\Downloads\homework1\homework1\obj\Debug\homework1.pdb
+D:\homework1\homework1\bin\Debug\homework1.exe.config
+D:\homework1\homework1\bin\Debug\homework1.exe
+D:\homework1\homework1\bin\Debug\homework1.pdb
+D:\homework1\homework1\obj\Debug\homework1.csprojAssemblyReference.cache
+D:\homework1\homework1\obj\Debug\homework1.exe
+D:\homework1\homework1\obj\Debug\homework1.pdb
